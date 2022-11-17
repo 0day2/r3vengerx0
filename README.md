@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r3vengerx0
 - 👀 I'm interested in programming and cars :) In fact, this is my whole life
 - 🌱 I am currently actively studying C++, and I plan to start learning C# in the future
-- 💞️ So far, I don't expect any cooperation, but I don't see it in my ideas about the future.
+- 💞️ I am always ready to cooperate and perform work to order
 - 📫 You can contact me in telegram, my tag: @r3venger
 
 <!---
