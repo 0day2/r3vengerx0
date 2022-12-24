@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @r3vengerx0
-- 👀 I'm interested in programming and cars :) In fact, this is my whole life
-- 🌱 I am currently actively studying C++, and I plan to start learning C# in the future
-- 💞️ I am always ready to cooperate and perform work to order
-- 📫 You can contact me in telegram, my tag: @r3venger
+- ![image](https://user-images.githubusercontent.com/112510447/209450956-aacd5ba9-0467-4ed2-ad9b-953e7a5ddd80.png) Black Hats?
+
+
 
 <!---
 r3vengerx0/r3vengerx0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
