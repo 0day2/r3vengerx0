@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @r3vengerx0
-- ![image](https://user-images.githubusercontent.com/112510447/209450956-aacd5ba9-0467-4ed2-ad9b-953e7a5ddd80.png) Black Hats?
+- 👾C# and C++ languages
+- 🦠Love malware making and cheat development
+- 👻About cooperation, write to discord- R3VENGE#1539
 
 
 
