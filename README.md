@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r3vengerx0
 - 👾C# and C++ languages
 - 🦠Love malware making and cheat development
-- 👻About cooperation, write to discord- R3VENGE#1539
+- 👻About cooperation, write to discord- R3VENGE#1539 or Telegram- @hvcd222
 
 
 
